@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ricstrife
+- 👋 Hi, I’m @Rickstrife
 - 👀 I’m interested in Technology
 - 🌱 I’m currently learning Html,Css
 - 💞️ I’m looking to collaborate on Web Development
