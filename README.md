@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rickstrife
 - 👀 I’m interested in Technology
-- 🌱 I’m currently learning Html,Css
+- 🌱 I’m currently learning Html,Css,Javascript
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me samuelricoss@yahoo.co.id
 
